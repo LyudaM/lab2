@@ -40,8 +40,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `login`, `password`, `name`, `email`) VALUES
-(1, '55Ded', 'test', 'Виктор Торгашов', 'torgash@gmail.com'),
-(2, 'Babushka', 'test', 'Виктория Мусина', 'vikavika@gmail.com');
+(1, 'Sunrise', 'test', 'Людмила Мамонова', 'mamonova@gmail.com'),
+(2, 'Sunflower', 'test', 'Юлия Шеховцова', 'juliajulia@gmail.com');
 
 --
 -- Indexes for dumped tables

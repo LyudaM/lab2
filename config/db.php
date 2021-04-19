@@ -10,10 +10,10 @@
 
 $database = [];
 
-$database['host'] = '127.0.0.1';
-$database['name'] = 'lab';
-$database['user'] = 'mysql';
-$database['password'] = 'mysql';
+$database['host'] = 'localhost';
+$database['name'] = 'web';
+$database['user'] = 'root';
+$database['password'] = 'mysqmila09';
 $database['charset'] = 'utf8';
 
 try {
